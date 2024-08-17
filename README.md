@@ -1,4 +1,4 @@
-# RaffleMachine
+# RaffleMachine 又称：遇事不决抽奖器
 ### 该Unity游戏或者软件项目为我半文字游戏里面独立出来的，我打包为安卓，Unity安卓预览示例为huawei-P40，当然软件图标我自己画的。
 ### 添加了自定义选项信息以及自动存档功能。
 ### 该项目可用作新手学习Unity基本操作和基础C#程序编写教程，可以很好锻炼使用Unity自带的UI，例如button或者panel,快速上手。
