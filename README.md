@@ -1,5 +1,6 @@
-# CustomRandomLottery
+# RaffleMachine
 该unity安卓游戏项目为我半文字游戏里面独立出来的。
 添加了自定义选项信息以及自动存档功能。
 该项目可用作新手学习unity基本操作和基础C#程序编写教程，可以很好锻炼使用unity自带的ui，例如button或者panel。
 报告书很详细，其实是想拉我好朋友迅速入坑Unity，好帮我写一些界面，真的，我只想写程序不想写页面。
+readme就写到这，详情请看我报告书，以及相应源码，源码是asset，整体unity项目太大了，无关紧要的太多，我基本东西都放在asset里面
