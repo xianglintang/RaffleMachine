@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//该脚本伴随于NotEliminateItem内部作为变量，在创建的时候，顺便放入全局数据管理中心的集合里面，方便存档
+//该脚本伴随于EliminateItem内部作为变量，在创建的时候，顺便放入全局数据管理中心的集合里面，方便存档
 [System.Serializable]
 public class EliminateItemData
 {
